@@ -1,4 +1,4 @@
-# Hello ✨
+# Hello
 
 Меня зовут Михаил, я Frontend React разработчик
 
